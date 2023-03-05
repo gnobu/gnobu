@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ubong.
-- 👀 I’m interested in Web development & data analytics.
-- 🌱 I’m currently learning front-end Web development, after which I'll learn back-end. I am also taking a course on data analytics with python's pandas, numpy, matplotlib, seaborn libraries.
-- 💞️ I’m looking to collaborate on any front-end project for now or data analytics project.
+- 👀 I’m interested in Web development, JavaScript, TypeScript, ReactJs, Node.js.
+- 🌱 I’m currently learning full-stack Web development.
+- 💞️ I’m looking to collaborate on any web-dev project.
 - 📫 How to reach me: @ub_inyang on IG.
 
 <!---
